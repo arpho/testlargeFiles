@@ -1,0 +1,7 @@
+{
+  "name": "testLargeFiles",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
